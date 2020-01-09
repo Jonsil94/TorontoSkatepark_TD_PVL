@@ -1,7 +1,7 @@
 # TorontoSkatepark_TD_PVL
 Toronto Skateboard Committee Projection mapping Tool - for planning skate parks
 
-**Step Zero:
+**Step Zero:**
 
 Touchdesigner grabs the video capture from the Kinect.
 Post-processing filters can be applied to sharpen/ Monochrome to adjust image quality
