@@ -24,8 +24,7 @@ Touchdesigner projects the data as instanced objects in a space
 **Step Five: “KinectCalibration”**
 The projector and Kinect need to be calibrated. Since “OpenCv_Aruco” is using the same color image as the reprojected point cloud all the Aruco calculated points should be in relatively (needs some adjusting Work in progress) the same position. Calibration will allow the projector to project the instanced 3D object over the marker
 
-![Test Image 3](/ProcessImage.png)
-![Test Image 4](/ProcessImage(2).png)
+![Test Image 3](/ProcessImage.png) ![Test Image 4](/ProcessImage (2).png)
 
 
 **Step Five:**
